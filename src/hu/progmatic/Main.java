@@ -28,7 +28,7 @@ public class Main {
 
         System.out.println(findNamesContain(names,"Sz"));
 
-        addNumbers(numbers,1,Integer.MAX_VALUE);
+        addNumbers(numbers,1,100);
         System.out.println(numbers);
         //names.addAll(Arrays.asList(namesToAdd));
         //Collections.addAll(names, namesToAdd);
